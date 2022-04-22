@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 
 // Internal dependencies
 import ItemCard from './ItemCard';
-import data from './../database';
+import data from './../mock';
 
 const List = () => {
 	

@@ -17,8 +17,8 @@ class Us extends React.Component {
 							<Card.Title>
 									<h2>Lukita</h2>
 							</Card.Title>
-							<Card.Img 
-								variant="bottom" 
+							<Card.Img
+								variant="bottom"
 								src="lukita.jpeg" />
 							<Card.Text className="mt-3">
 								Nascido em Belo Horizonte e criado em Governador Valadares, Lucas Daher, Lukita para os amigos e Lukita da Galera para os mais íntimos, é um administrador de empresas, entusiasta de jiu-jitsu e ativista da luta contra o estereótipo do nerd. Sua maior contribuição para o funcionamento do Podcast é dar pitaco no trabalho do Aguiar. Dono de uma peculiar paixão por macacos, viciado em trocadilhos envolvendo órgãos no mínimo polêmicos do corpo humano, gamer supremo (de uma amostra de 5 pessoas) e Mestre Pokémon devidamente reconhecido pela Liga 3 de Vida (para total e completo desespero do Paraíba), Lukita tem como um dos objetivos de vida um dia conseguir corrigir o português do PB.
@@ -32,8 +32,8 @@ class Us extends React.Component {
 						<Card.Title>
 								<h2>Aguiar</h2>
 						</Card.Title>
-						<Card.Img 
-								variant="bottom" 
+						<Card.Img
+								variant="bottom"
 								src="aguiar.jpeg" />
 						<Card.Text className="mt-3">
 							Mineiro nascido e castigado pelo sol quente de Governador Valadares, Rafael Aguiar, também conhecido como Terule ou simplesmente Aguiar, é analista de sistemas, amante dos livros e apaixonado por jogos e tecnologia. Conhecido por suas gambiarras tecnológicas ultra-avançadas (recursos técnicos), é ele quem efetivamente coloca o 3 de Vida para funcionar. Atualmente, além de participar das discussões inusitadas, desempenha as funções de chefe de TI, designer gráfico, editor, relações públicas, sonoplasta e inquisidor. Correu atrás do Paraíba e do Lukita igual a um doido pra fazer este podcast acontecer e espera continuar fazendo apenas por diversão, mas se tiver umas garoupas e lobos-guará envolvidos não vai reclamar.
@@ -47,7 +47,7 @@ class Us extends React.Component {
 						<Card.Title>
 								<h2>Paraíba</h2>
 						</Card.Title>
-						<Card.Img 
+						<Card.Img
 								variant="top"
 								src="paraiba.jpeg" />
 						<Card.Text className="mt-3">

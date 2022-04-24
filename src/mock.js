@@ -150,6 +150,46 @@ const data = {
 		"href": "https://api.spotify.com/v1/shows/3H4BkVACf2vM2wqbeMHaPZ/episodes?offset=0&limit=50",
 		"items": [
 			{
+				"audio_preview_url": "https://p.scdn.co/mp3-preview/d9e0059a0796030890be51a6bb482b4dcfbb584f",
+				"description": "Faaala, player! No episódio desta semana, o seu podcast do coração fala sobre o tão aguardado Hogwarts Legacy: um RPG eletrônico de mundo aberto baseado no universo de Harry Potter! E não é só isso! Enfrentando o medo do cancelamento, Aguiar, Lukita e Paraíba abordam um tema meio espinhoso: com base nas últimas polêmicas nas quais J.K. Rowling se envolveu, será que as obras merecem sofrer pelos erros de quem as criou, ou seria possível separar criadores e criaturas? Tá afim de embarcar nessa aventura? Então corre para a plataforma 9 e 3/4 e taca-lhe o play neste episódio! Procure a gente no insta: @3devidacast, @aguiar_fael, @cavalcantedc @lucasdahergv E pra não perder o costume, aqui estão os endereços para a maravilinda RPGCON 2022! (www.rpgcon2022.com.br) (www.rpgbrasil.com.br).",
+				"duration_ms": 4269035,
+				"explicit": false,
+				"external_urls": {
+					"spotify": "https://open.spotify.com/episode/76L2aGcoYzP6hYbfxa0opc"
+				},
+				"href": "https://api.spotify.com/v1/episodes/76L2aGcoYzP6hYbfxa0opc",
+				"html_description": "<p>Faaala, player! No episódio desta semana, o seu podcast do coração fala sobre o tão aguardado Hogwarts Legacy: um RPG eletrônico de mundo aberto baseado no universo de Harry Potter! E não é só isso! Enfrentando o medo do cancelamento, Aguiar, Lukita e Paraíba abordam um tema meio espinhoso: com base nas últimas polêmicas nas quais J.K. Rowling se envolveu, será que as obras merecem sofrer pelos erros de quem as criou, ou seria possível separar criadores e criaturas? Tá afim de embarcar nessa aventura? Então corre para a plataforma 9 e 3/4 e taca-lhe o play neste episódio!</p><br/><p>Procure a gente no insta: &#64;3devidacast, &#64;aguiar_fael, &#64;cavalcantedc &#64;lucasdahergv</p><br/><p>E pra não perder o costume, aqui estão os endereços para a maravilinda RPGCON 2022! (www.rpgcon2022.com.br) (www.rpgbrasil.com.br).</p>",
+				"id": "76L2aGcoYzP6hYbfxa0opc",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab6765630000ba8a812206747ef5916590ff6e70",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67656300005f1f812206747ef5916590ff6e70",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab6765630000f68d812206747ef5916590ff6e70",
+						"width": 64
+					}
+				],
+				"is_externally_hosted": false,
+				"is_playable": true,
+				"language": "pt-BR",
+				"languages": [
+					"pt-BR"
+				],
+				"name": "9 - Hogwarts Legacy e a Separação Mágica Entre Criadores e Criações",
+				"release_date": "2022-04-23",
+				"release_date_precision": "day",
+				"type": "episode",
+				"uri": "spotify:episode:76L2aGcoYzP6hYbfxa0opc"
+			},
+			{
 				"audio_preview_url": "https://p.scdn.co/mp3-preview/0da69eb18d9f9d7150b96349c455d55c6b8ed243",
 				"description": "Faaala, player! No episódio desta semana, o seu podcast do coração fala sobre a série Cavaleiro da Lua, a mais nova integrante do Universo Cinematográfico da Marvel, que estreou no Disney + em março deste ano! Vocês vão conhecer um pouco sobre a origem do conturbado herói lunar, além de ficar por dentro do que rolou nos dois primeiros episódios da série e, é claro, descobrir a relevante opinião dos nossos especialistas em p*rr@ nenhuma sobre a produção. Mas não é só isso! Rolou ainda uma discussão perfeitamente sadia e levemente polêmica sobre o número de produções audiovisuais da Marvel nos últimos anos! Será que tá demais? Então, é isso! Sem mais enrolação, invoque seu traje cerimonial aí e taca-lhe play neste episódio!     Procure a gente no insta: @3devidacast, @aguiar_fael, @cavalcantedc @lucasdahergv     E pra não perder o costume, aqui estão os endereços para a maravilinda RPGCON 2022! (www.rpgcon2022.com.br) (www.rpgbrasil.com.br).",
 				"duration_ms": 3749224,
@@ -514,7 +554,7 @@ const data = {
 		"next": null,
 		"offset": 0,
 		"previous": null,
-		"total": 9
+		"total": 10
 	},
 	"explicit": true,
 	"external_urls": {
@@ -547,7 +587,7 @@ const data = {
 	"media_type": "audio",
 	"name": "3 de Vida",
 	"publisher": "3 de Vida",
-	"total_episodes": 9,
+	"total_episodes": 10,
 	"type": "show",
 	"uri": "spotify:show:3H4BkVACf2vM2wqbeMHaPZ"
 }
